@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mub:home|Door43 (mub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mub|d43-mub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mub/archive/master.zip|d43-mub.zip]]
+
+**Recent Changes**
+{{changes>ns = mub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mub|Ethnologue data]]
+
